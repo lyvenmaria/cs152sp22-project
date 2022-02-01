@@ -1,5 +1,7 @@
 # Title: Dog breed classification app
 
+![](Dogs.png)
+
 ## Project Description 
 
 Dogs are some of the most lovable and adorable creatures. According to FCI (http://www.fci.be/en/) , there are more than 300 officially recognized dog breeds. However, most people are familiar only with the most popular breeds, such as German Shepard or Labrador Retriever. 
