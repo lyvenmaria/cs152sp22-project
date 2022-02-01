@@ -14,4 +14,4 @@ The model I intend to build could be used in an app, which will let the user kno
 2. Write code to detect human face based on the input image.
 3. Write code to detect dog based on the input image.
 4. Create and train NN for classifying dog’s breed. 
-5. Test the NN for its accuracy. 
+5. Test the NN for its accuracy.
